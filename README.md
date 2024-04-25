@@ -111,7 +111,7 @@ int a,b;
 }
 ```
 # OUTPUT
-![WhatsApp Image 2024-04-17 at 09 07 52_37feb5d7](https://github.com/Akshayasakthivels/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/144870561/0ad76081-828d-431c-8c1d-9e71b8caab70)
+<img width="205" alt="image" src="https://github.com/manomadhivanan/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/115543366/f2c9661e-a042-4879-9845-ed07c46d020b">
 
 
 # RESULT
