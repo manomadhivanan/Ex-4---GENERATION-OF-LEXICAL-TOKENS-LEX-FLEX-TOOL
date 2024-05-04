@@ -1,4 +1,7 @@
- Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# NAME:MANO M
+# REGISTER NUMBER:212221040100
+# DATE:28.02.2024
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -30,7 +33,7 @@
 
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
-# PROGRAM
+# PROGRAM:
 ``` 
 /* program name is lexp.l */
 %{
@@ -110,9 +113,9 @@ main()
 int a,b;
 }
 ```
-# OUTPUT
-<img width="205" alt="image" src="https://github.com/manomadhivanan/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/115543366/f2c9661e-a042-4879-9845-ed07c46d020b">
 
+# OUTPUT
+<img width="262" alt="image" src="https://github.com/manomadhivanan/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/115543366/ec2e00c8-154e-4e84-ab46-66d7ab93aead">
 
 # RESULT
- The lexical analyzer is implemented using lex and the output is verified.
+## The lexical analyzer is implemented using lex and the output is verified.
