@@ -118,4 +118,4 @@ int a,b;
 <img width="262" alt="image" src="https://github.com/manomadhivanan/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/115543366/ec2e00c8-154e-4e84-ab46-66d7ab93aead">
 
 # RESULT
-## The lexical analyzer is implemented using lex and the output is verified.
+ The lexical analyzer is implemented using lex and the output is verified.
